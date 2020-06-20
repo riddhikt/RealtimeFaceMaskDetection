@@ -29,3 +29,5 @@ Use 'Esc' key to close the camera prompt
 1. beep.mp3 :used when no mask is detected
 1. detect_mask.ipynb
 1. detect_mask.py
+
+Thank you [SumanSid](https://github.com/sumansid) for the Dataset! 
